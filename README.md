@@ -24,7 +24,6 @@
   </a>&nbsp;
 
   <a href="www.linkedin.com/in/momen-alhamza-7b04102b5
-
 " target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
   </a>&nbsp;
