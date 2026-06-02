@@ -7,7 +7,7 @@
   </a>
 </p>
   <p>
-    <a href="https://drive.google.com/file/d/1k4FHnEmE5VvS5ITq_G8y0N5CtcXjsRCd/view?usp=sharing">
+    <a href="https://drive.google.com/drive/folders/1L_km_9BZZJBQR-kk7WE82CDoiYnN1yT2?hl=ar">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
     <a href="https://momenalhamza-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
