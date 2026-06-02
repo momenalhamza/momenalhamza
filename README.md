@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Momen Alhamza</h1>
-<h2 align="center">AI Engineer | Robotics Developer</h2>
+<h2 align="center">AI Engineer | Machine Learning, Deep Learning, NLP, Computer Vision, RAG Systems
+
+</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -44,13 +46,13 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momenalhamza&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="165" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=momenalhamza&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&cache_seconds=86400" height="165" alt="Stats"/>
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=momenalhamza&theme=radical&hide_border=true" height="165" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momenalhamza&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momenalhamza&layout=compact&langs_count=6&theme=highcontrast&hide_border=true&cache_seconds=86400" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
